@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application development, data analysis and machine learning. 
 - 🌱 I’m currently learning computer vision neural network in deep learning 
 - 📫 How to reach me : 
-  + 📝 blog site: [My Blog Site](https://mvt-blog-official.netlify.app/)
+  + 📝 blog site: [My Blog Site](https://mvt-blog.com)
   + 📝 email : mthang1801@gmail.com
   + 📝 facebook : [Facebook](https://www.facebook.com/mvt.dev)
 

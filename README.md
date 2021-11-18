@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mai Thang
-- 👀 I’m interested in web application development, data analysis and machine learning. 
-- 🌱 I’m currently learning computer vision neural network in deep learning 
+- 👀 I’m interested in web application development, data science. 
+- 🌱 I’m currently learning to get AWS architecture certification.
 - 📫 How to reach me : 
   + 📝 blog site: https://mvt-blog.com
   + 📝 email : mthang1801@gmail.com

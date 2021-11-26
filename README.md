@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mai Thang
-- 👀 I’m interested in web application development, data science. 
-- 🌱 I’m currently learning to get AWS architecture certification.
+- 👀 I’m interested in web application development, data science, financial trade algorithmics. 
+- 🌱 I’m currently learning AWS architecture to get certification.
 - 📫 How to reach me : 
   + 📝 blog site: https://mvt-blog.com
   + 📝 email : mthang1801@gmail.com

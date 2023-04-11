@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application development, data science, financial trade algorithmics. 
 - 🌱 I’m currently learning, researching about AWS architecture to get certification.
 - 📫 How to reach me : 
-  + 📝 blog site: https://mvt-blog.com
+  + 📝 blog site: https://mvt-blog-official.netlify.app/
   + 📝 email : mthang1801@gmail.com
   + 📝 facebook : [Facebook](https://www.facebook.com/mvt.dev)
 

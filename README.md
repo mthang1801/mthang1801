@@ -3,7 +3,6 @@
 - 📫 How to reach me : 
   + 📝 blog site: https://mvt-blog-official.netlify.app/
   + 📝 email : mthang1801@gmail.com
-  + 📝 facebook : [Facebook](https://www.facebook.com/mvt.dev)
 
 <!---
 mthang1801/mthang1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
